@@ -24,6 +24,9 @@ gem 'bootstrap-sass', '~> 3.3.6'
 gem 'font-awesome-sass'
 gem 'devise', '~> 4.2'
 gem 'activeadmin', github: 'activeadmin'
+gem 'inherited_resources', '~> 1.7'
+gem 'active_skin'
+gem 'paperclip', '~> 4.3', '>= 4.3.6'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
